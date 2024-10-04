@@ -42,6 +42,7 @@ After the game ends, players can restart the game, which resets the guessed lett
 
 
 You can find the avtivites in : ```HangManGame\app\src\main\java\com\example\a1200540_jenin_mansour```
+
 You can find the XML files in : ```HangManGame\app\src\main\res\layout```
 
 
