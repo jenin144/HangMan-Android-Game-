@@ -1,6 +1,6 @@
 # ASCII Hangman Android Game
 
-                         ![image](https://github.com/user-attachments/assets/9e52d2f5-08ef-4041-a3c0-b9d736e068cf)
+![image](https://github.com/user-attachments/assets/9e52d2f5-08ef-4041-a3c0-b9d736e068cf)
 
 **OverView**
 ```
