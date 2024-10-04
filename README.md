@@ -1,1 +1,1 @@
-***ASCII Hangman Game***
+*ASCII Hangman Game*
